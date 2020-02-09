@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Broken Robot some longer title
-description: Hacks, tricks and awesomeness for robots and you. 
-github_username: 
+title: 🤖 Broken Robot
+description: Hacks, tricks and awesomeness for robots and you.
+github_username: tuebel
 
 # Email and twitter are optional:
 email: 
-twitter_username: 
+twitter_username: timuebelhoer
 
 # Set this to true to get LaTeX math equation support
 use_math: true
