@@ -1,4 +1,8 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+<img src="images/tim.jpg" width="150">
+So, this is me.
+Currently I'm with the Institute of Automatic Control, RWTH Aachen University working on my research and doctors degree.
+I like coding, robots, tech, skiing, Linux, ... guess you will get a glimps of it in this blog.
 
+Thanks to Jeremy Howard for creating the [fast templates](https://github.com/fastai/fast_template) for blogging with github.io.
