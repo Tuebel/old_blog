@@ -1,6 +1,6 @@
 # About
 
-<img src="images/tim.jpg" width="150" align="left">
+<img src="images/tim.jpg" width="150">
 So, this is me, Tim Übelhör.
 
 I have studied a mechanical engineering bachelor and automation engineering master.
