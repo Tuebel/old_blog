@@ -7,15 +7,16 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: 🤖 Broken Robot
+author:
+  name: Tim Übelhör
+  email: tim.uebelhoer@rwth-aachen.de
 description: Hacks, tricks and awesomeness for robots and you.
-github_username: tuebel
-
-# Email
-email: tim.uebelhoer@rwth-aachen.de
 
 # Social network
 minima:
+  date_format: "%b %-d, %Y"
   social_links:
+    github: tuebel
     twitter: timuebelhoer
 
 # Set this to true to get LaTeX math equation support
