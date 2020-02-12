@@ -7,23 +7,23 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: 🤖 Broken Robot
-author:
-  name: Tim Übelhör
-  email: tim.uebelhoer@rwth-aachen.de
+author: Tim Übelhör
+email: tim.uebelhoer@rwth-aachen.de
 description: Hacks, tricks and awesomeness for robots and you.
 
 # Social network
-minima:
-  date_format: "%b %-d, %Y"
-  social_links:
-    github: tuebel
-    twitter: timuebelhoer
+github_username: tuebel
+twitter_username: timuebelhoer
 
 # Set this to true to get LaTeX math equation support
 use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
+
+# Date format
+minima:
+  date_format: "%b %-d, %Y"
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
@@ -33,6 +33,7 @@ plugins:
   - jekyll-octicons
   - jekyll-gist
   - jekyll-github-metadata
+  - jekyll-seo-tag
 
 titles_from_headings:
   enabled:     true
