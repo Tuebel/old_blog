@@ -10,9 +10,13 @@ title: 🤖 Broken Robot
 description: Hacks, tricks and awesomeness for robots and you.
 github_username: tuebel
 
-# Email and twitter are optional:
+# Email
 email: tim.uebelhoer@rwth-aachen.de
-twitter_username: timuebelhoer
+
+# Social network
+minima:
+  social_links:
+    twitter: timuebelhoer
 
 # Set this to true to get LaTeX math equation support
 use_math: true
