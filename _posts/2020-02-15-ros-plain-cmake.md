@@ -43,5 +43,5 @@ For example for OpenGL based rendering one might include:
 ## Building the Project
 
 ## References
-[^1]: https://www.ros.org/reps/rep-0134.html
-[^2]: http://wiki.ros.org/rosdep
+[^1]: [https://www.ros.org/reps/rep-0134.html]
+[^2]: [http://wiki.ros.org/rosdep]
