@@ -6,10 +6,10 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: 🤖 Broken Robot
+title: 🤖 Unbrake Robotics
 author: Tim Übelhör
 email: tim.uebelhoer@rwth-aachen.de
-description: Hacks, tricks and awesomeness for robots and you.
+description: Hacks, tricks and awesomeness for robots and you. GoROS!
 
 # Social network
 github_username: tuebel
